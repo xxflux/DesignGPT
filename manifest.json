@@ -1,0 +1,13 @@
+{
+  "name": "Figma DesignGPT",
+  "api": "1.0.0",
+  "id": "1259236870428016498",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "dialog.html"
+}

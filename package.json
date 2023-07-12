@@ -1,0 +1,22 @@
+{
+  "name": "DesignGPT",
+  "version": "1.0.0",
+  "description": "Utilize AI for your UX design process",
+  "author": "typeofyoum",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "main": "code.js",
+  "dependencies": {
+    "axios": "^1.3.5"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "@types/axios": "^0.14.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
