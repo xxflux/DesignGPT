@@ -1,3 +1,5 @@
+[![Video](https://img.youtube.com/vi/nNwet493M_w/hqdefault.jpg)](https://www.youtube.com/watch?v=nNwet493M_w)
+
 # DesignGPT
 Figma plugin that utilizes AI for your UX design process
 
